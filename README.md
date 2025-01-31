@@ -28,10 +28,8 @@ Wishing you optimized algorithms, sleek UIs, and seamless code at every turn! �
 
 ---
 
-### 🐍 **Black Snake Game**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AditiMondal25/AditiMondal25/output/snake.svg#gh-dark-mode-only" alt="Snake animation" />
-</div>
+### 🐍 **Snake Game (Black Theme)**
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=black&grid=true&color=000000" alt="Snake animation" />
 
 ---
 
