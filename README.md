@@ -25,11 +25,13 @@ Wishing you optimized algorithms, sleek UIs, and seamless code at every turn! �
 
 ---
 
-### 🏆 **LeetCode Stats (Auto-updating)**
+### 🏆 **LeetCode Stats (Detailed & Auto-Updating)**
 <div align="center">
   <a href="https://leetcode.com/u/Aditi25Mondal/">
-    <img src="https://leetcard.jacoblin.cool/Aditi25Mondal?theme=dark&font=Monospace&ext=heatmap" height="200" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Aditi25Mondal?theme=dark&font=Monospace&ext=heatmap&site=leetcode" height="200" alt="LeetCode Stats" />
   </a>
+  <br><br>
+  <img src="https://leetcard.jacoblin.cool/Aditi25Mondal?theme=dark&font=Monospace&ext=activity&show_rank=true&site=leetcode" height="200" alt="LeetCode Activity" />
 </div>
 
 ---
