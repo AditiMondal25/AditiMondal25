@@ -11,7 +11,7 @@
 </strong>. Together, let's drive innovation and push the boundaries of technology. 🌍✨<br><br>
 Wishing you optimized algorithms, sleek UIs, and seamless code at every turn! 🛠️⚡</h4>
 ---
-### 🖥️ **Tech Stack**
+ 🖥️ **Tech Stack**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="JavaScript" />
   <img width="18" />
