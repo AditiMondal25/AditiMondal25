@@ -16,17 +16,19 @@ Wishing you optimized algorithms, sleek UIs, and seamless code at every turn! �
 
 ---
 
-### 🏆 **LeetCode Stats (Auto-updating)**
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/aditi-mondal?theme=dark&font=Monospace&ext=heatmap" height="200" alt="LeetCode Stats" />
-</div>
-
----
-
 ### 🎵 **Spotify Now Playing**
 <div align="center">
   <a href="https://open.spotify.com/user/q92844u0do3utmdk3081rz1m0">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=q92844u0do3utmdk3081rz1m0&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+---
+
+### 🏆 **LeetCode Stats (Auto-updating)**
+<div align="center">
+  <a href="https://leetcode.com/u/Aditi25Mondal/">
+    <img src="https://leetcard.jacoblin.cool/Aditi25Mondal?theme=dark&font=Monospace&ext=heatmap" height="200" alt="LeetCode Stats" />
   </a>
 </div>
 
