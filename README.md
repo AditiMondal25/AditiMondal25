@@ -56,7 +56,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=black&grid=true" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Black/snk/output/github-contribution-grid-snake.svg?palette=black&grid=true" alt="Snake animation" />
 
 ###
 
