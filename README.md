@@ -10,7 +10,41 @@
   <a href="https://www.instagram.com/__aaaditi__/">Instagram</a>
 </strong>. Together, let's drive innovation and push the boundaries of technology. 🌍✨<br><br>
 Wishing you optimized algorithms, sleek UIs, and seamless code at every turn! 🛠️⚡</h4>
+---
+### 🖥️ **Tech Stack**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="JavaScript" />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="React" />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" alt="HTML5" />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" alt="CSS3" />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="Python" />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="Java" />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="33" alt="C++" />
+</div>
 
+---
+
+### 📞 **Connect with Me**
+<div align="left">
+  <a href="https://www.instagram.com/__aaaditi__/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/aditimondal25">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="Discord" />
+  </a>
+  <a href="mailto:aditiofficial.mondal@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditi-mondal-285b631b1/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="LinkedIn" />
+  </a>
+</div>
 ---
 
 ### 🏆 **GitHub Stats**
