@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=black&grid=true" alt="Snake animation" />
 
 ###
 
@@ -69,4 +69,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=q92844u0do3utmdk3081rz1m0&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
