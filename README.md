@@ -52,9 +52,10 @@ Wishing you optimized algorithms, sleek UIs, and seamless code at every turn! �
 </div>
 
 
-### 🏆 **GitHub Stats**
+### 📊 **GitHub Metrics**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AditiMondal25&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://metrics.lecoq.io/AditiMondal25?template=classic&base=activity%2Ccommunity%2Crepositories%2Cmetadata" alt="GitHub activity, community, repository, and profile metrics for Aditi Mondal" width="100%" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AditiMondal25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
